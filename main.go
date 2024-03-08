@@ -1,4 +1,4 @@
-package clarktest
+package main
 
 import "fmt"
 
